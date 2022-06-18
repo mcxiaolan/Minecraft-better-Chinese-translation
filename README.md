@@ -18,11 +18,14 @@
 #### 方法一
 手动导入至 Minecraft 资源包目录
 * [下载源码](https://github.com/mcxiaolan/Minecraft-better-Chinese-translation/archive/refs/heads/master.zip)
-* 进入 Minecraft 游戏目录，以安卓为例，进入 Android/data/com.mojang.minecraftpe/files/games/com.mojang/resource_packs
+* 进入 Minecraft 存储目录，以安卓为例，进入 Android/data/com.mojang.minecraftpe/files/games/com.mojang/resource_packs
 * 如果上一步在 data 文件夹里未发现 com.mojang.minecraftpe, 请进入游戏设置 - 档案，将文件存储位置改为外部
 * 将源码放入文件夹里，重启游戏并启用资源包
 
 #### 方法二
+* [下载mcpack格式的资源包](https://github.com/mcxiaolan/Minecraft-better-Chinese-translation/releases/latest)
+* 使用 Minecraft 打开此文件即可自动导入
+
 ### 感谢
 
 ### 改善资源包
