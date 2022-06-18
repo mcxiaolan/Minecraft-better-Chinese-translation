@@ -17,5 +17,6 @@
 ### 感谢
 
 ### 版权声明
+“Minecraft”是 Mojang Synergies AB 的商标。
 
 ### 许可
