@@ -15,6 +15,7 @@
 ### 安装
 
 ### 感谢
+@KSGN-Sora
 
 ### 版权声明
 “Minecraft”是 Mojang Synergies AB 的商标。
