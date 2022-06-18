@@ -20,3 +20,4 @@
 “Minecraft”是 Mojang Synergies AB 的商标。
 
 ### 许可
+[MIT License](LICENSE)
